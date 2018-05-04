@@ -1,0 +1,1 @@
+docker run -d --name="home-assistant" -v /Users/mdlima/Projects/home-assistant/config:/config -e "TZ=America/Sao_Paulo" -p 8123:8123 homeassistant/home-assistant
