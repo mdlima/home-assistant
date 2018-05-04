@@ -1,0 +1,6 @@
+
+# Non-config files
+config/home-assistant.log
+config/home-assistant_v2.db
+config/secrets.yaml
+config/.uuid
